@@ -1,0 +1,14 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+reddit/__init__.py
+reddit/items.py
+reddit/pipelines.py
+reddit/settings.py
+reddit/spiders/__init__.py
+reddit/spiders/allnews.py
+reddit/spiders/politics.py
+reddit/spiders/world.py
